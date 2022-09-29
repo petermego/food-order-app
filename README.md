@@ -1,5 +1,5 @@
 # food-order-app
-food order app with React JS &amp; Firebase
+##food order app with React JS &amp; Firebase
 
 ### manage your orders see what you want to eat today
 you can add, update and delete your order
